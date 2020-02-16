@@ -24,11 +24,11 @@ file.close()
 #from sys import argv
 
 def save_money(money, days):
-    print u"你存了：%d元" % money
-    print u"打算存：%d天" % days
-    print u"每天给你：10元做利息！（我没开玩笑）"
-    print "wait.....one day,two day......"
-    print u"这些是给你的：%d." % (money+days*10)
+    print ("你存了：%d元" % money)
+    print ("打算存：%d天" % days)
+    print ("每天给你：10元做利息！（我没开玩笑）")
+    print( "wait.....one day,two day......")
+    print ("这些是给你的：%d." % (money+days*10))
 	
 #script, input_money, input_days = argv
 input_money = int(raw_input("How much do you want save?"))#这里输出中文有问题
