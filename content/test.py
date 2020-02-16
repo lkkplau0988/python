@@ -33,4 +33,4 @@ def save_money(money, days):
 #script, input_money, input_days = argv
 input_money = int(raw_input("How much do you want save?"))#这里输出中文有问题
 input_days = int(raw_input("For How long?"))
-save_money(input_money, input_days)
+save_money=(input_money, input_days)
