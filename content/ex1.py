@@ -17,4 +17,5 @@ print( 'I "said" do not touch this.')
 
 #the program can be run from peter
 #the update must do in the master
+#after the pull ,the file must be closed first for update
 
