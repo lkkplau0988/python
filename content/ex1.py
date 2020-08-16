@@ -16,4 +16,5 @@ print( 'I "said" do not touch this.')
 # 因为python中字符串默认采用ASCII，要声明为unicode就要加u(linux环境下不需要加u)
 
 #the program can be run from peter
+#the update must do in the master
 
