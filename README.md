@@ -14,3 +14,5 @@
 - [博客](http://www.cnblogs.com/xueweihan/)
 - [网站](https://hellogithub.com/)
 - test push from peter
+-push function ok
+-now do the pull function
