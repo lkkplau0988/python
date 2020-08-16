@@ -16,3 +16,4 @@
 - test push from peter
 -push function ok
 -now do the pull function
+- pull function is also ok
