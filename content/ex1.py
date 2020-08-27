@@ -20,3 +20,4 @@ print('test from peter')
 #the update must do in the master
 #after the pull ,the file must be closed first for update
 #test by peter on 28-8-20
+#test by peter on 28-8-20 use jupyter
