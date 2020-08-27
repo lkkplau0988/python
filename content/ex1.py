@@ -12,6 +12,7 @@ print ('Yay! Printing.')
 print ("I'd much rather you 'not'.")
 print( 'I "said" do not touch this.')
 print('test from peter')
+print('test by peter on 28-8-20 use jupyter')
 
 # 输出中文的时候要在字符串前面加u。
 # 因为python中字符串默认采用ASCII，要声明为unicode就要加u(linux环境下不需要加u)
