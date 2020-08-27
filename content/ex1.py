@@ -19,4 +19,4 @@ print('test from peter')
 #the program can be run from peter
 #the update must do in the master
 #after the pull ,the file must be closed first for update
-
+#test by peter on 28-8-20
