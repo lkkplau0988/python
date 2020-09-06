@@ -18,3 +18,4 @@
 -now do the pull function
 - pull function is also ok
 - again test by peter on 18-8-2020
+- peter study on 6-9-2020
