@@ -27,14 +27,14 @@ average_passengers_per_car = passengers / cars_driven  # 每辆车几个人
 
 # 我要先歇会——————14：54
 # gogo——20：25
-print "There are", cars, "cars available."# 这里有 100 辆车可用
-print "There are only", drivers, "drivers available."# 这里有 30 位司机可用
-print "There will be", cars_not_drvien, "empty cars today."
-print "We can transport", carpool_capacity, "people today."# 我们可以运输 人
-print "We have", passengers, "to carpool today."# 我们有90位乘客
-print "We need to put about", average_passengers_per_car, "in each car."# 每辆车放多少人
+print ("There are", cars, "cars available.")# 这里有 100 辆车可用
+print( "There are only", drivers, "drivers available.")# 这里有 30 位司机可用
+print ("There will be", cars_not_drvien, "empty cars today.")
+print( "We can transport", carpool_capacity, "people today.")# 我们可以运输 人
+print( "We have", passengers, "to carpool today.")# 我们有90位乘客
+print ("We need to put about", average_passengers_per_car, "in each car.")# 每辆车放多少人
 
 # 笔记
 #
 # 如果计算式子中有浮点数结果必然为浮点数
-print "4.0 + 3=", 4.0 + 3
+print( "4.0 + 3=", 4.0 + 3)
